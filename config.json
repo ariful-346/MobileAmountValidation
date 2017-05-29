@@ -1,0 +1,12 @@
+{
+  "by_school_code": true,
+  "by_thana_id": false,
+  "ip": "192.168.168.18",
+  "username": "arif",
+  "password": "arif@#456",
+  "database": "bugs",
+  "table": "arif_dsrd_rep_100000",
+  "mobile_operator_list" : ["015", "016", "017", "018", "019"],
+  "number_of_student_list" : [1, 2, 3, 4],
+  "valid_mobile_length_list" : [11]
+}
